@@ -77,3 +77,4 @@ elif operation == "/":
         print(result)
 else:
     print("ОШИБКА")
+    
